@@ -1,13 +1,14 @@
-# Hi there, I'm Ekab-Osowo Tawo.
-## Data Analyst | Business Analyst | MSc Data Science (Distinction) | PSM I
-<!--
+## Introduction 
+<!-- 
+Hi there, I'm Ekab-Osowo Tawo.
+Data Analyst | Business Analyst | MSc Data Science (Distinction) | PSM I
 ** Transforming complex data into actionable business insights through analytics, data storytelling and business intelligence.
 -->
 ## About Me
 <!--
 A Data Analyst with an MSc in Data Science (Distinction) and experience delivering data-driven solutions across analytics, business intelligence, and Agile environments.
 My work focuses on transforming complex datasets into meaningful insights using SQL, Python, R, Power BI, Tableau, and Excel to support data-driven decision-making.
-I am passionate about solving business problems through data analysis, dashboard development, statistical modelling, process improvement, and clear communication with technical and non-technical stakeholders. This passion stems from the fact that I enjoy solving business problems.
+I am passionate about solving business problems through data analysis, dashboard development, statistical modelling, process improvement, and clear communication with technical and non-technical stakeholders. This passion stems from my enjoyment of solving business problems.
 -->
 ## Core Competencies
 <!--
