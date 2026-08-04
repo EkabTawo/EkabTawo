@@ -2,7 +2,7 @@
 
 **Data Analyst | Business Analyst | MSc Data Science (Distinction) | Professional Scrum Master I (PSM I)**
 
-I genuinely enjoy taking complex datasets and distilling them into actionable insights that actually help teams make smarter business decisions. My experience and work have covered everything from data analytics and business intelligence to statistical analysis, dashboard development, and Agile project delivery. I'm proficient with SQL, Python, R, Power BI, and Tableau, along with the classic workhorse, Excel, and I use these tools to tackle real-world business problems through thoughtful data exploration and visualisation.
+I genuinely enjoy taking complex datasets and distilling them into actionable insights that actually help teams make smarter business decisions. My experience and work have spanned data analytics and business intelligence, statistical analysis, dashboard development, and Agile project delivery. I'm proficient with SQL, Python, R, Power BI, and Tableau, along with the classic workhorse, Excel, and I use these tools to tackle real-world business problems through thoughtful data exploration and visualisation.
 ---
 ## About Me
   - MSc in Data Science (Distinction), University of Wolverhampton
@@ -56,12 +56,12 @@ I genuinely enjoy taking complex datasets and distilling them into actionable in
 ## Featured Projects
 ### Data Analytics Portfolio
 #### COVID-19 Crime Trend Analysis (Python | SQL | PostgreSQL)
+**Skills:** Python, SQL, PostgreSQL, Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualisation, Business Insights
 Analysed crime trends in England and Wales (2002–2021) using Python, PostgreSQL, SQL, Pandas and Matplotlib. Built SQL queries, performed exploratory data analysis, created professional visualisations, and generated business insights.
 
-🔗 Repository:
-https://github.com/EkabTawo/covid-crime-analysis
+🔗 **Repository:** https://github.com/EkabTawo/covid-crime-analysis
 
-#### Upcoming Portfolio Projects
+#### Planned Portfolio Projects
   - Retail Performance Analytics
   - Banking Analytics Dashboard
   - HR Workforce Analytics
