@@ -54,12 +54,14 @@ I genuinely enjoy taking complex datasets and distilling them into actionable in
 | Methodologies | Agile, Scrum, ETL, Data Analysis |
 ---
 ## Featured Projects
-### Academic Projects
-  - Pattern Recognition Using Hopfield Neural Networks
-  - African Accent Word Error Rate Analysis
-  - Impact of COVID-19 on Crime Rates
-  - Machine Learning Projects
-### Portfolio Projects
+### Data Analytics Portfolio
+#### COVID-19 Crime Trend Analysis (Python | SQL | PostgreSQL)
+Analysed crime trends in England and Wales (2002–2021) using Python, PostgreSQL, SQL, Pandas and Matplotlib. Built SQL queries, performed exploratory data analysis, created professional visualisations, and generated business insights.
+
+🔗 Repository:
+https://github.com/EkabTawo/covid-crime-analysis
+
+#### Upcoming Portfolio Projects
   - Retail Performance Analytics
   - Banking Analytics Dashboard
   - HR Workforce Analytics
@@ -67,6 +69,10 @@ I genuinely enjoy taking complex datasets and distilling them into actionable in
   - Healthcare Analytics
   - Customer Churn Prediction
   - Executive Business Intelligence Dashboard
+
+### Academic Projects
+  - Pattern Recognition Using Hopfield Neural Networks
+  - African Accent Word Error Rate Analysis
 ---
 ## Certifications
   - Professional Scrum Master I (PSM I)
