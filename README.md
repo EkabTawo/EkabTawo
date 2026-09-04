@@ -58,11 +58,15 @@ I genuinely enjoy taking complex datasets and distilling them into actionable in
 #### COVID-19 Crime Trend Analysis (Python | SQL | PostgreSQL)
 **Skills:** Python, SQL, PostgreSQL, Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualisation, Business Insights
 Analysed crime trends in England and Wales (2002–2021) using Python, PostgreSQL, SQL, Pandas and Matplotlib. Built SQL queries, performed exploratory data analysis, created professional visualisations, and generated business insights.
-
 🔗 **Repository:** https://github.com/EkabTawo/covid-crime-analysis
 
+#### Retail Performance Analytics (Python | SQL | Tableau)
+**Skills:** Python, SQL, PostgreSQL, Pandas, Matplotlib, Tableau, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualisation, Business Insights
+Analysed retail transaction data, generating £10.64M in revenue across 19,960 orders. Performed data cleaning and EDA, built SQL analyses and Tableau dashboards, and translated findings into actionable business insights.
+🔗 **Repository:** https://github.com/EkabTawo/retail-performance-analytics
+
+
 #### Planned Portfolio Projects
-  - Retail Performance Analytics
   - Banking Analytics Dashboard
   - HR Workforce Analytics
   - Supply Chain Analytics
@@ -71,8 +75,10 @@ Analysed crime trends in England and Wales (2002–2021) using Python, PostgreSQ
   - Executive Business Intelligence Dashboard
 
 ### Academic Projects
-  - Pattern Recognition Using Hopfield Neural Networks
-  - African Accent Word Error Rate Analysis
+  - ⁠Pattern Recognition Using Hopfield Neural Networks — MSc dissertation exploring pattern recognition using Hopfield neural networks.
+    https://github.com/EkabTawo/Pattern-Recognition-Using-Hopfield-Neural-Networks 
+  - African Accent Word Error Rate Analysis — Analysis of speech-recognition performance across African accents using Word Error Rate (WER).
+    https://github.com/EkabTawo/African-Accent-Word-Error-Rate-Analysis
 ---
 ## Certifications
   - Professional Scrum Master I (PSM I)
